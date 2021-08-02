@@ -9,3 +9,6 @@ Task management handler:
 3. Pressing the the v button next to the task item will turn into a completed task. the background of the item will turn into green and task text will be decorated with line through
 4. Pressing the "Delet All" button will display a confirming, if the user press on confirm button, all the tasks in the list tasks will be deleted.
 5. Pressing delete on completed tasks will deleted only the completed tasks.
+
+### Run this code to create a JS file.
+`tsc solution.ts`
